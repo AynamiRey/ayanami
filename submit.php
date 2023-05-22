@@ -1,10 +1,7 @@
 <?php
 
-/* config start */
 
 $emailAddress = '';
-
-/* config end */
 
 
 require "contact-form/phpmailer/class.phpmailer.php";
